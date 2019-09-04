@@ -15,11 +15,11 @@ Demons
 
 ## Demo Page
 
-[ Demo Page](https://szhielelp.github.io/JekyllTheme-ProjectGaia/#/)
+[ Demo Page](http://127.0.0.1:4000/)
 
 ## Documents
 
-[    Documents    ](https://szhielelp.github.io/JekyllTheme-ProjectGaia-Docs/#/)
+[Documents](http://china.nba.com)
 
 ## Author
 
