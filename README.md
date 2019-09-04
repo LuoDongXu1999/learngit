@@ -1,9 +1,8 @@
 <h1 align="center">
-Project Gaia
+Demons
 </h1>
 
 <center>
-
 ![]( https://img.shields.io/badge/License-MIT-brightgreen.svg  )
 [![](https://img.shields.io/badge/Documented-YES-yellowgreen.svg)](https://szhielelp.github.io/JekyllTheme-ProjectGaia-Docs/#/)
 [![](https://img.shields.io/badge/author-szhshp-blue.svg)](http://szhshp.org)
@@ -12,9 +11,7 @@ Project Gaia
 
 </center> 
 
-
-<div align=center><img width="400px" src="logo.png"/></div>
-
+<div align=center><img width="400px" src="timg.jpeg"/></div>
 
 ## Demo Page
 
@@ -26,10 +23,10 @@ Project Gaia
 
 ## Author
 
-👤 **szhshp**
+👤 **LuoDongXu1999**
 
-* Github: [@szhielelp](https://github.com/szhielelp)
-* Blog: [http://szhshp.org](http://szhshp.org)
+* Github: [LuoDongXu1999](https://github.com/LuoDongXu1999)
+* Blog: [http://china.nba.com](http://china.nba.com)
 
 ## Show your support
 
